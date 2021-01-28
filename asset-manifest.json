@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hw20-react/static/css/main.2d1e1975.chunk.css",
+    "main.js": "/hw20-react/static/js/main.13e828e8.chunk.js",
+    "main.js.map": "/hw20-react/static/js/main.13e828e8.chunk.js.map",
+    "runtime-main.js": "/hw20-react/static/js/runtime-main.15e28223.js",
+    "runtime-main.js.map": "/hw20-react/static/js/runtime-main.15e28223.js.map",
+    "static/js/2.5cd37cc8.chunk.js": "/hw20-react/static/js/2.5cd37cc8.chunk.js",
+    "static/js/2.5cd37cc8.chunk.js.map": "/hw20-react/static/js/2.5cd37cc8.chunk.js.map",
+    "index.html": "/hw20-react/index.html",
+    "static/css/main.2d1e1975.chunk.css.map": "/hw20-react/static/css/main.2d1e1975.chunk.css.map",
+    "static/js/2.5cd37cc8.chunk.js.LICENSE.txt": "/hw20-react/static/js/2.5cd37cc8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15e28223.js",
+    "static/js/2.5cd37cc8.chunk.js",
+    "static/css/main.2d1e1975.chunk.css",
+    "static/js/main.13e828e8.chunk.js"
+  ]
+}
